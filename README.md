@@ -9,7 +9,7 @@ VBS Payload Fully Undetected & Bypasses Antivirus
 
 Undetected By All Antivirus As of:
 
-7 February 2023
+February 2023
 
 
 
